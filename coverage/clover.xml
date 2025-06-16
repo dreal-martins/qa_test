@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1750099464493" clover="3.2.0">
+  <project timestamp="1750099464493" name="All files">
+    <metrics statements="18" coveredstatements="14" conditionals="2" coveredconditionals="0" methods="7" coveredmethods="6" elements="27" coveredelements="20" complexity="0" loc="18" ncloc="18" packages="1" files="3" classes="3"/>
+    <file name="dataHandlers.ts" path="/Users/user/Documents/qa_test/utils/dataHandlers.ts">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="5" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
+    <file name="leddiServices.ts" path="/Users/user/Documents/qa_test/utils/leddiServices.ts">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="5" type="stmt"/>
+      <line num="5" count="8" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="4" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+    </file>
+    <file name="notifications.ts" path="/Users/user/Documents/qa_test/utils/notifications.ts">
+      <metrics statements="7" coveredstatements="3" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
