@@ -266,15 +266,6 @@ DEBUG=leddiprime:* npm run test:daily
 - **Reporting**: Custom dashboard for QA metrics
 - **Security**: API key rotation and secure storage
 
-## 📚 Documentation
-
-### Additional Resources
-
-- [API Documentation](./docs/api.md)
-- [Test Writing Guidelines](./docs/testing.md)
-- [Deployment Guide](./docs/deployment.md)
-- [Troubleshooting Guide](./docs/troubleshooting.md)
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -298,7 +289,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **QA Automation Team**
 
-- Lead: [Your Name] - [email@company.com]
-- Contributors: [Team Members]
+- Lead: [Martins Aguegbodo] - [aguegbodomartins@gmail.com]
+
 
 **Support**: For issues or questions, contact the QA team or open an issue in this repository.
